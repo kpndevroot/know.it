@@ -32,9 +32,9 @@ git clone https://github.com/dracula/terminator.git && cd terminator && ./instal
 ```
 ## install applications using yay
 ```bash
-yay -S brave-bin btop kdeconnect android-studio-bin jdk17-openjdk \
+yay -S brave-bin btop kdeconnect jdk17-openjdk \
 brightness-controller dolphin gwenview logo-ls stacer-bin docker visual-studio-code-bin \
-nvtop libxcrypt-compat github-cli coolercontrol lm-sensor nbfc-linux \
+nvtop libxcrypt-compat github-cli coolercontrol nbfc-linux \
 gwenview tlp preload tuned neofetch geekbench
 ```
 ## install application using pacman 
